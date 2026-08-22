@@ -1,0 +1,752 @@
+{
+    "B0000": {
+        "correct_ledger_id": "L0000",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0001": {
+        "correct_ledger_id": "L0001",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0002": {
+        "correct_ledger_id": "L0002",
+        "match": true,
+        "scenario": "FUZZY_VENDOR"
+    },
+    "B0003": {
+        "correct_ledger_id": "L0003",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0004": {
+        "correct_ledger_id": null,
+        "match": false,
+        "scenario": "MISSING_LEDGER"
+    },
+    "B0005": {
+        "correct_ledger_id": "L0005",
+        "match": true,
+        "scenario": "FUZZY_VENDOR"
+    },
+    "B0006": {
+        "correct_ledger_id": "L0006",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0007": {
+        "correct_ledger_id": "L0007",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0008": {
+        "correct_ledger_id": "L0008",
+        "match": true,
+        "scenario": "FUZZY_DATE"
+    },
+    "B0009": {
+        "correct_ledger_id": "L0009",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0010": {
+        "correct_ledger_id": "L0010",
+        "match": true,
+        "scenario": "FUZZY_AMOUNT"
+    },
+    "B0011": {
+        "correct_ledger_id": "L0011",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0012": {
+        "correct_ledger_id": "L0012",
+        "match": true,
+        "scenario": "FUZZY_DATE"
+    },
+    "B0013": {
+        "correct_ledger_id": "L0013",
+        "match": true,
+        "scenario": "FUZZY_DATE"
+    },
+    "B0014": {
+        "correct_ledger_id": "L0014",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0015": {
+        "correct_ledger_id": "L0015",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0016": {
+        "correct_ledger_id": "L0016",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0017": {
+        "correct_ledger_id": "L0017",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0018": {
+        "correct_ledger_id": "L0018",
+        "match": true,
+        "scenario": "FUZZY_AMOUNT"
+    },
+    "B0019": {
+        "correct_ledger_id": "L0019",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0020": {
+        "correct_ledger_id": "L0020",
+        "match": true,
+        "scenario": "FUZZY_VENDOR"
+    },
+    "B0021": {
+        "correct_ledger_id": "L0021",
+        "match": true,
+        "scenario": "FUZZY_DATE"
+    },
+    "B0022": {
+        "correct_ledger_id": "L0022",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0023": {
+        "correct_ledger_id": null,
+        "match": false,
+        "scenario": "MISSING_LEDGER"
+    },
+    "B0024": {
+        "correct_ledger_id": null,
+        "match": false,
+        "scenario": "MISSING_LEDGER"
+    },
+    "B0025": {
+        "correct_ledger_id": "L0025",
+        "match": true,
+        "scenario": "FUZZY_VENDOR"
+    },
+    "B0026": {
+        "correct_ledger_id": "L0026",
+        "match": true,
+        "scenario": "FUZZY_VENDOR"
+    },
+    "B0027": {
+        "correct_ledger_id": "L0027",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0028": {
+        "correct_ledger_id": "L0028",
+        "match": true,
+        "scenario": "FUZZY_DATE"
+    },
+    "B0029": {
+        "correct_ledger_id": "L0029",
+        "match": true,
+        "scenario": "FUZZY_AMOUNT"
+    },
+    "B0030": {
+        "correct_ledger_id": "L0030",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0031": {
+        "correct_ledger_id": "L0031",
+        "match": true,
+        "scenario": "FUZZY_AMOUNT"
+    },
+    "B0032": {
+        "correct_ledger_id": "L0032",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0033": {
+        "correct_ledger_id": "L0033",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0034": {
+        "correct_ledger_id": "L0034",
+        "match": true,
+        "scenario": "FUZZY_DATE"
+    },
+    "B0035": {
+        "correct_ledger_id": "L0035",
+        "match": true,
+        "scenario": "FUZZY_DATE"
+    },
+    "B0036": {
+        "correct_ledger_id": "L0036",
+        "match": true,
+        "scenario": "FUZZY_VENDOR"
+    },
+    "B0037": {
+        "correct_ledger_id": "L0037",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0038": {
+        "correct_ledger_id": "L0038",
+        "match": true,
+        "scenario": "FUZZY_DATE"
+    },
+    "B0039": {
+        "correct_ledger_id": "L0039",
+        "match": true,
+        "scenario": "FUZZY_AMOUNT"
+    },
+    "B0040": {
+        "correct_ledger_id": "L0040",
+        "match": true,
+        "scenario": "FUZZY_VENDOR"
+    },
+    "B0041": {
+        "correct_ledger_id": "L0041",
+        "match": true,
+        "scenario": "FUZZY_DATE"
+    },
+    "B0042": {
+        "correct_ledger_id": "L0042",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0043": {
+        "correct_ledger_id": "L0043",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0044": {
+        "correct_ledger_id": "L0044",
+        "match": true,
+        "scenario": "FUZZY_AMOUNT"
+    },
+    "B0045": {
+        "correct_ledger_id": "L0045",
+        "match": true,
+        "scenario": "FUZZY_AMOUNT"
+    },
+    "B0046": {
+        "correct_ledger_id": "L0046",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0047": {
+        "correct_ledger_id": "L0047",
+        "match": true,
+        "scenario": "FUZZY_VENDOR"
+    },
+    "B0048": {
+        "correct_ledger_id": "L0048",
+        "match": true,
+        "scenario": "FUZZY_VENDOR"
+    },
+    "B0049": {
+        "correct_ledger_id": "L0049",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0050": {
+        "correct_ledger_id": "L0050",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0051": {
+        "correct_ledger_id": "L0051",
+        "match": true,
+        "scenario": "FUZZY_DATE"
+    },
+    "B0052": {
+        "correct_ledger_id": "L0052",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0053": {
+        "correct_ledger_id": "L0053",
+        "match": true,
+        "scenario": "FUZZY_AMOUNT"
+    },
+    "B0054": {
+        "correct_ledger_id": "L0054",
+        "match": true,
+        "scenario": "FUZZY_DATE"
+    },
+    "B0055": {
+        "correct_ledger_id": "L0055",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0056": {
+        "correct_ledger_id": "L0056",
+        "match": true,
+        "scenario": "FUZZY_AMOUNT"
+    },
+    "B0057": {
+        "correct_ledger_id": "L0057",
+        "match": true,
+        "scenario": "FUZZY_VENDOR"
+    },
+    "B0058": {
+        "correct_ledger_id": "L0058",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0059": {
+        "correct_ledger_id": null,
+        "match": false,
+        "scenario": "MISSING_LEDGER"
+    },
+    "B0060": {
+        "correct_ledger_id": "L0060",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0061": {
+        "correct_ledger_id": "L0061",
+        "match": true,
+        "scenario": "FUZZY_DATE"
+    },
+    "B0062": {
+        "correct_ledger_id": "L0062",
+        "match": true,
+        "scenario": "FUZZY_AMOUNT"
+    },
+    "B0063": {
+        "correct_ledger_id": "L0063",
+        "match": true,
+        "scenario": "FUZZY_DATE"
+    },
+    "B0064": {
+        "correct_ledger_id": "L0064",
+        "match": true,
+        "scenario": "FUZZY_DATE"
+    },
+    "B0065": {
+        "correct_ledger_id": "L0065",
+        "match": true,
+        "scenario": "FUZZY_DATE"
+    },
+    "B0066": {
+        "correct_ledger_id": null,
+        "match": false,
+        "scenario": "MISSING_LEDGER"
+    },
+    "B0067": {
+        "correct_ledger_id": "L0067",
+        "match": true,
+        "scenario": "FUZZY_DATE"
+    },
+    "B0068": {
+        "correct_ledger_id": "L0068",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0069": {
+        "correct_ledger_id": "L0069",
+        "match": true,
+        "scenario": "FUZZY_DATE"
+    },
+    "B0070": {
+        "correct_ledger_id": "L0070",
+        "match": true,
+        "scenario": "FUZZY_AMOUNT"
+    },
+    "B0071": {
+        "correct_ledger_id": "L0071",
+        "match": true,
+        "scenario": "FUZZY_AMOUNT"
+    },
+    "B0072": {
+        "correct_ledger_id": "L0072",
+        "match": true,
+        "scenario": "FUZZY_AMOUNT"
+    },
+    "B0073": {
+        "correct_ledger_id": "L0073",
+        "match": true,
+        "scenario": "FUZZY_DATE"
+    },
+    "B0074": {
+        "correct_ledger_id": "L0074",
+        "match": true,
+        "scenario": "FUZZY_DATE"
+    },
+    "B0075": {
+        "correct_ledger_id": "L0075",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0076": {
+        "correct_ledger_id": "L0076",
+        "match": true,
+        "scenario": "FUZZY_DATE"
+    },
+    "B0077": {
+        "correct_ledger_id": "L0077",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0078": {
+        "correct_ledger_id": "L0078",
+        "match": true,
+        "scenario": "FUZZY_DATE"
+    },
+    "B0079": {
+        "correct_ledger_id": "L0079",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0080": {
+        "correct_ledger_id": "L0080",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0081": {
+        "correct_ledger_id": "L0081",
+        "match": true,
+        "scenario": "FUZZY_AMOUNT"
+    },
+    "B0082": {
+        "correct_ledger_id": "L0082",
+        "match": true,
+        "scenario": "FUZZY_DATE"
+    },
+    "B0083": {
+        "correct_ledger_id": "L0083",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0084": {
+        "correct_ledger_id": null,
+        "match": false,
+        "scenario": "MISSING_LEDGER"
+    },
+    "B0085": {
+        "correct_ledger_id": "L0085",
+        "match": true,
+        "scenario": "FUZZY_AMOUNT"
+    },
+    "B0086": {
+        "correct_ledger_id": "L0086",
+        "match": true,
+        "scenario": "FUZZY_AMOUNT"
+    },
+    "B0087": {
+        "correct_ledger_id": "L0087",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0088": {
+        "correct_ledger_id": "L0088",
+        "match": true,
+        "scenario": "FUZZY_DATE"
+    },
+    "B0089": {
+        "correct_ledger_id": "L0089",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0090": {
+        "correct_ledger_id": "L0090",
+        "match": true,
+        "scenario": "FUZZY_VENDOR"
+    },
+    "B0091": {
+        "correct_ledger_id": "L0091",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0092": {
+        "correct_ledger_id": "L0092",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0093": {
+        "correct_ledger_id": "L0093",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0094": {
+        "correct_ledger_id": "L0094",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0095": {
+        "correct_ledger_id": "L0095",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0096": {
+        "correct_ledger_id": "L0096",
+        "match": true,
+        "scenario": "FUZZY_DATE"
+    },
+    "B0097": {
+        "correct_ledger_id": "L0097",
+        "match": true,
+        "scenario": "FUZZY_DATE"
+    },
+    "B0098": {
+        "correct_ledger_id": "L0098",
+        "match": true,
+        "scenario": "FUZZY_DATE"
+    },
+    "B0099": {
+        "correct_ledger_id": "L0099",
+        "match": true,
+        "scenario": "DUPLICATE"
+    },
+    "B0100": {
+        "correct_ledger_id": "L0100",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0101": {
+        "correct_ledger_id": "L0101",
+        "match": true,
+        "scenario": "FUZZY_DATE"
+    },
+    "B0102": {
+        "correct_ledger_id": "L0102",
+        "match": true,
+        "scenario": "FUZZY_VENDOR"
+    },
+    "B0103": {
+        "correct_ledger_id": null,
+        "match": false,
+        "scenario": "MISSING_LEDGER"
+    },
+    "B0104": {
+        "correct_ledger_id": "L0104",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0105": {
+        "correct_ledger_id": "L0105",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0106": {
+        "correct_ledger_id": "L0106",
+        "match": true,
+        "scenario": "FUZZY_AMOUNT"
+    },
+    "B0107": {
+        "correct_ledger_id": "L0107",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0108": {
+        "correct_ledger_id": "L0108",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0109": {
+        "correct_ledger_id": "L0109",
+        "match": true,
+        "scenario": "FUZZY_VENDOR"
+    },
+    "B0110": {
+        "correct_ledger_id": "L0110",
+        "match": true,
+        "scenario": "FUZZY_VENDOR"
+    },
+    "B0111": {
+        "correct_ledger_id": null,
+        "match": false,
+        "scenario": "MISSING_LEDGER"
+    },
+    "B0112": {
+        "correct_ledger_id": "L0112",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0113": {
+        "correct_ledger_id": "L0113",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0114": {
+        "correct_ledger_id": "L0114",
+        "match": true,
+        "scenario": "FUZZY_VENDOR"
+    },
+    "B0115": {
+        "correct_ledger_id": "L0115",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0116": {
+        "correct_ledger_id": "L0116",
+        "match": true,
+        "scenario": "FUZZY_DATE"
+    },
+    "B0117": {
+        "correct_ledger_id": null,
+        "match": false,
+        "scenario": "MISSING_LEDGER"
+    },
+    "B0118": {
+        "correct_ledger_id": "L0118",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0119": {
+        "correct_ledger_id": "L0119",
+        "match": true,
+        "scenario": "FUZZY_DATE"
+    },
+    "B0120": {
+        "correct_ledger_id": "L0120",
+        "match": true,
+        "scenario": "FUZZY_VENDOR"
+    },
+    "B0121": {
+        "correct_ledger_id": "L0121",
+        "match": true,
+        "scenario": "FUZZY_DATE"
+    },
+    "B0122": {
+        "correct_ledger_id": null,
+        "match": false,
+        "scenario": "MISSING_LEDGER"
+    },
+    "B0123": {
+        "correct_ledger_id": "L0123",
+        "match": true,
+        "scenario": "FUZZY_DATE"
+    },
+    "B0124": {
+        "correct_ledger_id": "L0124",
+        "match": true,
+        "scenario": "FUZZY_AMOUNT"
+    },
+    "B0125": {
+        "correct_ledger_id": "L0125",
+        "match": true,
+        "scenario": "FUZZY_AMOUNT"
+    },
+    "B0126": {
+        "correct_ledger_id": "L0126",
+        "match": true,
+        "scenario": "FUZZY_DATE"
+    },
+    "B0127": {
+        "correct_ledger_id": null,
+        "match": false,
+        "scenario": "MISSING_LEDGER"
+    },
+    "B0128": {
+        "correct_ledger_id": "L0128",
+        "match": true,
+        "scenario": "DUPLICATE"
+    },
+    "B0129": {
+        "correct_ledger_id": null,
+        "match": false,
+        "scenario": "MISSING_LEDGER"
+    },
+    "B0130": {
+        "correct_ledger_id": "L0130",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0131": {
+        "correct_ledger_id": "L0131",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0132": {
+        "correct_ledger_id": "L0132",
+        "match": true,
+        "scenario": "FUZZY_VENDOR"
+    },
+    "B0133": {
+        "correct_ledger_id": "L0133",
+        "match": true,
+        "scenario": "FUZZY_VENDOR"
+    },
+    "B0134": {
+        "correct_ledger_id": "L0134",
+        "match": true,
+        "scenario": "FUZZY_AMOUNT"
+    },
+    "B0135": {
+        "correct_ledger_id": "L0135",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0136": {
+        "correct_ledger_id": "L0136",
+        "match": true,
+        "scenario": "FUZZY_AMOUNT"
+    },
+    "B0137": {
+        "correct_ledger_id": "L0137",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0138": {
+        "correct_ledger_id": "L0138",
+        "match": true,
+        "scenario": "FUZZY_DATE"
+    },
+    "B0139": {
+        "correct_ledger_id": "L0139",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0140": {
+        "correct_ledger_id": "L0140",
+        "match": true,
+        "scenario": "FUZZY_VENDOR"
+    },
+    "B0141": {
+        "correct_ledger_id": "L0141",
+        "match": true,
+        "scenario": "FUZZY_DATE"
+    },
+    "B0142": {
+        "correct_ledger_id": "L0142",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0143": {
+        "correct_ledger_id": "L0143",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0144": {
+        "correct_ledger_id": "L0144",
+        "match": true,
+        "scenario": "FUZZY_VENDOR"
+    },
+    "B0145": {
+        "correct_ledger_id": "L0145",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0146": {
+        "correct_ledger_id": "L0146",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0147": {
+        "correct_ledger_id": "L0147",
+        "match": true,
+        "scenario": "EXACT"
+    },
+    "B0148": {
+        "correct_ledger_id": "L0148",
+        "match": true,
+        "scenario": "FUZZY_AMOUNT"
+    },
+    "B0149": {
+        "correct_ledger_id": "L0149",
+        "match": true,
+        "scenario": "FUZZY_AMOUNT"
+    }
+}

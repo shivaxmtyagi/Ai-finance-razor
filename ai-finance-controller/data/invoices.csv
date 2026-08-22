@@ -1,0 +1,139 @@
+invoice_id,invoice_date,vendor,description,invoice_amount,currency,invoice_number,due_date,status
+INV0000,2026-07-03,"Lowe, Carr and Rhodes",Reactive context-sensitive conglomeration,5188.23,USD,INV-8C839568,2026-07-18,PAID
+INV0001,2026-07-10,Alvarez-Burton,Future-proofed impactful knowledgebase,11813.75,USD,INV-13AEB750,2026-07-25,PAID
+INV0002,2026-06-09,Clark Group,Switchable 24/7 info-mediaries,3112.41,USD,INV-39394F67,2026-06-24,PAID
+INV0003,2026-07-20,Clark Group,Multi-tiered impactful task-force,12633.13,USD,INV-2A00C46F,2026-08-04,PAID
+INV0005,2026-07-17,Alvarez-Burton,Streamlined eco-centric installation,14734.09,USD,INV-06518DF0,2026-08-01,PAID
+INV0006,2026-06-29,"Fernandez, Mayo and Miller",Seamless incremental monitoring,11762.63,USD,INV-FABB2E15,2026-07-14,PAID
+INV0007,2026-07-10,Chavez-Wilson,Virtual explicit alliance,5126.14,USD,INV-06E4B49D,2026-07-25,PAID
+INV0008,2026-07-26,Edwards-Carney,Open-architected attitude-oriented knowledge user,5664.78,USD,INV-E8D40B26,2026-08-10,PAID
+INV0009,2026-06-29,Conley-Cochran,Profound tertiary analyzer,5064.92,USD,INV-E5C8EDD9,2026-07-14,PAID
+INV0010,2026-07-09,Walton-Montgomery,Automated optimizing knowledge user,5564.69,USD,INV-7D3920D0,2026-07-24,PAID
+INV0011,2026-07-29,"Reynolds, Meyers and Robertson",Innovative client-server policy,14334.92,USD,INV-C931B160,2026-08-13,PAID
+INV0012,2026-06-14,Calderon Inc,Mandatory non-volatile initiative,2544.87,USD,INV-16977111,2026-06-29,PAID
+INV0013,2026-06-13,Owens-Williams,Decentralized intangible synergy,13266.45,USD,INV-EFDF6FF1,2026-06-28,PAID
+INV0014,2026-06-19,Bradley Inc,Decentralized dedicated Internet solution,13083.45,USD,INV-9879EA2D,2026-07-04,PAID
+INV0015,2026-07-27,Lam and Sons,Versatile hybrid Graphic Interface,11571.81,USD,INV-48FF8469,2026-08-11,PAID
+INV0016,2026-07-30,Foley-Hernandez,Fundamental bifurcated frame,13172.55,USD,INV-70568117,2026-08-14,PAID
+INV0017,2026-07-22,Smith Ltd,Enhanced content-based hub,11770.63,USD,INV-66C91C07,2026-08-06,PAID
+INV0018,2026-06-15,"Curry, Mccoy and Mclean",Organic real-time matrices,5728.18,USD,INV-9FCBF13E,2026-06-30,PAID
+INV0019,2026-07-29,"Jackson, Cortez and Odom",Implemented zero-defect function,3067.41,USD,INV-51572FBF,2026-08-13,PAID
+INV0020,2026-08-05,Hess-Hamilton,Diverse reciprocal orchestration,4884.16,USD,INV-A68A37B4,2026-08-20,PAID
+INV0021,2026-07-16,Clark Group,Function-based national superstructure,12380.17,USD,INV-AB1F3C77,2026-07-31,PAID
+INV0022,2026-07-30,Edwards-Carney,Innovative hybrid matrices,595.48,USD,INV-C6516C0D,2026-08-14,PAID
+INV0025,2026-07-30,Hood LLC,Optimized full-range support,3581.1,USD,INV-E94C2C8C,2026-08-14,PAID
+INV0026,2026-08-02,Microsoft Azure,Face-to-face web-enabled standardization,10354.13,USD,INV-F056B1FD,2026-08-17,PAID
+INV0027,2026-07-18,Wood-Shelton,Multi-channeled zero tolerance archive,9955.18,USD,INV-0DDDEB94,2026-08-02,PAID
+INV0028,2026-06-19,Peterson-Joseph,Cross-platform neutral Graphic Interface,124.18,USD,INV-1551BCA0,2026-07-04,PAID
+INV0029,2026-06-29,Hood LLC,Triple-buffered systemic hub,629.7,USD,INV-A933CC64,2026-07-14,PAID
+INV0030,2026-07-16,Amazon Web Services,Synergized analyzing application,5749.98,USD,INV-E121DCE5,2026-07-31,PAID
+INV0031,2026-07-14,Cruz and Sons,Profit-focused 24hour website,7112.16,USD,INV-CE0416E8,2026-07-29,PAID
+INV0032,2026-06-29,Williams-Allen,Synergized didactic toolset,4685.92,USD,INV-0D37013B,2026-07-14,PAID
+INV0033,2026-06-09,Jones and Sons,Function-based user-facing ability,10787.75,USD,INV-BC0D3C4D,2026-06-24,PAID
+INV0034,2026-07-14,Smith Ltd,Organized executive Graphical User Interface,2468.01,USD,INV-9769577C,2026-07-29,PAID
+INV0035,2026-07-27,"Williams, Hanson and Wong",Face-to-face directional approach,10823.86,USD,INV-4C06235D,2026-08-11,PAID
+INV0036,2026-07-25,Hughes-Pierce,Profound dedicated pricing structure,445.57,USD,INV-F6B24829,2026-08-09,PAID
+INV0037,2026-06-19,Microsoft Azure,Adaptive human-resource knowledge user,8841.89,USD,INV-D7224355,2026-07-04,PAID
+INV0038,2026-07-14,Clark Group,Profound intermediate leverage,14039.26,USD,INV-9F6E6116,2026-07-29,PAID
+INV0039,2026-07-30,Williams-Allen,Advanced zero-defect migration,14138.49,USD,INV-B648301E,2026-08-14,PAID
+INV0040,2026-07-13,"Bowman, Moore and Perez",Configurable non-volatile system engine,814.59,USD,INV-723D37D2,2026-07-28,PAID
+INV0041,2026-07-19,Mcneil and Sons,Intuitive global customer loyalty,2900.12,USD,INV-4FCF4A09,2026-08-03,PAID
+INV0042,2026-07-30,"Taylor, Lambert and Davis",Robust next generation service-desk,1623.67,USD,INV-99531784,2026-08-14,PAID
+INV0043,2026-07-28,"Strickland, Pratt and King",Pre-emptive fresh-thinking implementation,13570.69,USD,INV-B56BCD9E,2026-08-12,PAID
+INV0044,2026-07-18,Calderon Inc,Horizontal solution-oriented superstructure,11169.74,USD,INV-B5DB13C0,2026-08-02,PAID
+INV0045,2026-07-31,"Fernandez, Mayo and Miller",Optional solution-oriented protocol,7665.87,USD,INV-2F30F262,2026-08-15,PAID
+INV0046,2026-08-03,"Hall, Nelson and Johnson",Versatile web-enabled info-mediaries,12592.61,USD,INV-CBDC1139,2026-08-18,PAID
+INV0047,2026-07-31,"Lowe, Carr and Rhodes",Re-engineered zero administration emulation,8913.3,USD,INV-E0B082B2,2026-08-15,PAID
+INV0048,2026-07-19,"Reynolds, Meyers and Robertson",Public-key demand-driven firmware,3759.74,USD,INV-3E671C4A,2026-08-03,PAID
+INV0049,2026-06-15,Davis LLC,Seamless web-enabled middleware,5141.99,USD,INV-DA0B28CA,2026-06-30,PAID
+INV0050,2026-06-26,"Fernandez, Mayo and Miller",Pre-emptive client-server concept,1519.82,USD,INV-C281A0C5,2026-07-11,PAID
+INV0051,2026-06-20,Bradley Inc,Implemented local collaboration,5707.63,USD,INV-AE3F023A,2026-07-05,PAID
+INV0052,2026-08-04,Wallace-Cooper,Triple-buffered disintermediate paradigm,12275.57,USD,INV-07EC8B97,2026-08-19,PAID
+INV0053,2026-07-18,"Jackson, Cortez and Odom",Virtual discrete success,13456.18,USD,INV-7C5DF2E2,2026-08-02,PAID
+INV0054,2026-06-14,"Lee, Ayala and Baker",Centralized web-enabled projection,10879.11,USD,INV-EC893965,2026-06-29,PAID
+INV0055,2026-06-25,Peterson-Joseph,Ameliorated responsive approach,1863.94,USD,INV-61EA6629,2026-07-10,PAID
+INV0056,2026-06-11,Rodriguez-Ellis,Fundamental transitional hardware,856.52,USD,INV-1C769A32,2026-06-26,PAID
+INV0057,2026-07-14,Edwards-Carney,Multi-layered incremental protocol,2767.11,USD,INV-2DD79EAA,2026-07-29,PAID
+INV0058,2026-08-05,Conley-Cochran,De-engineered logistical secured line,10585.94,USD,INV-6268C66F,2026-08-20,PAID
+INV0060,2026-06-25,Jones and Sons,Organic logistical website,10359.78,USD,INV-68395584,2026-07-10,PAID
+INV0061,2026-07-01,"Carroll, Johnson and Norris",Automated bandwidth-monitored website,12189.08,USD,INV-66E15469,2026-07-16,PAID
+INV0062,2026-06-17,Chavez-Wilson,Object-based global projection,10948.89,USD,INV-C909820F,2026-07-02,PAID
+INV0063,2026-06-24,Alvarez-Burton,Mandatory bandwidth-monitored throughput,1797.59,USD,INV-BF7E4F19,2026-07-09,PAID
+INV0064,2026-08-03,Conley-Cochran,Focused asymmetric algorithm,4480.46,USD,INV-411F4B46,2026-08-18,PAID
+INV0065,2026-07-28,"Carroll, Johnson and Norris",Programmable value-added neural-net,10479.07,USD,INV-04814FF3,2026-08-12,PAID
+INV0067,2026-07-07,"Walker, Jackson and Salazar",Enterprise-wide 6thgeneration model,7835.3,USD,INV-08EB7D53,2026-07-22,PAID
+INV0068,2026-07-04,Foley-Hernandez,Open-architected bifurcated capacity,13943.83,USD,INV-AE11F4BA,2026-07-19,PAID
+INV0069,2026-08-01,Calderon Inc,Realigned contextually-based hierarchy,6925.23,USD,INV-C38CBCE9,2026-08-16,PAID
+INV0070,2026-07-29,Lam and Sons,Organized actuating extranet,10101.01,USD,INV-EAF79A13,2026-08-13,PAID
+INV0071,2026-06-27,Mcneil and Sons,Integrated 24hour protocol,3319.33,USD,INV-9A6B2A7F,2026-07-12,PAID
+INV0072,2026-06-22,"Anderson, Moore and Maynard",Programmable motivating portal,11751.03,USD,INV-F6603A61,2026-07-07,PAID
+INV0073,2026-07-31,"Carroll, Johnson and Norris",Cross-group maximized project,5715.37,USD,INV-B1A4B657,2026-08-15,PAID
+INV0074,2026-07-28,Mata PLC,Organized asymmetric algorithm,12201.79,USD,INV-346A2570,2026-08-12,PAID
+INV0075,2026-07-10,Garcia and Sons,Optional tertiary project,11534.94,USD,INV-DE7AE933,2026-07-25,PAID
+INV0076,2026-06-20,Daniels-Carrillo,Ergonomic coherent project,12868.49,USD,INV-2ED405B4,2026-07-05,PAID
+INV0077,2026-07-29,Mata PLC,Multi-lateral multi-tasking info-mediaries,4337.38,USD,INV-82A34C65,2026-08-13,PAID
+INV0078,2026-07-31,Hood LLC,Sharable dynamic functionalities,10753.73,USD,INV-0092E505,2026-08-15,PAID
+INV0079,2026-06-30,Chavez-Wilson,Multi-tiered zero administration hub,6075.66,USD,INV-149FFA4B,2026-07-15,PAID
+INV0080,2026-07-30,Smith Ltd,Cloned asynchronous database,5369.62,USD,INV-ABB81432,2026-08-14,PAID
+INV0081,2026-07-18,Bradley Inc,Reverse-engineered uniform matrices,8655.95,USD,INV-3B867DB9,2026-08-02,PAID
+INV0082,2026-07-10,Mcgrath-Braun,Integrated systemic help-desk,1296.12,USD,INV-FADCE953,2026-07-25,PAID
+INV0083,2026-08-03,Lam and Sons,Polarized system-worthy info-mediaries,1278.33,USD,INV-773DA364,2026-08-18,PAID
+INV0085,2026-07-05,Hood LLC,Advanced fresh-thinking parallelism,1772.43,USD,INV-D6C3FFD9,2026-07-20,PAID
+INV0086,2026-07-31,Perry LLC,Persevering 3rdgeneration leverage,4340.28,USD,INV-C10514BB,2026-08-15,PAID
+INV0087,2026-07-21,Short-Reynolds,Re-contextualized even-keeled utilization,2407.82,USD,INV-6FE90BD6,2026-08-05,PAID
+INV0088,2026-07-04,Short-Reynolds,Public-key asynchronous process improvement,11993.2,USD,INV-9D6F3841,2026-07-19,PAID
+INV0089,2026-06-27,Daniels-Carrillo,Organic stable structure,7017.1,USD,INV-1B1477F9,2026-07-12,PAID
+INV0090,2026-07-22,DigitalOcean,Reactive regional portal,3192.44,USD,INV-71D71D6C,2026-08-06,PAID
+INV0091,2026-07-05,Hood LLC,Profound 5thgeneration project,4703.17,USD,INV-26D2A6D0,2026-07-20,PAID
+INV0092,2026-07-06,Foley-Hernandez,Secured regional model,7839.83,USD,INV-43DC8F0F,2026-07-21,PAID
+INV0093,2026-06-21,Clark Group,Realigned human-resource protocol,11311.5,USD,INV-4C8185B5,2026-07-06,PAID
+INV0094,2026-06-14,Hughes-Pierce,Exclusive foreground support,14152.71,USD,INV-1E745243,2026-06-29,PAID
+INV0095,2026-08-02,Davis LLC,Fundamental maximized utilization,4751.01,USD,INV-F034C25D,2026-08-17,PAID
+INV0096,2026-07-13,"Williams, Hanson and Wong",Diverse asynchronous function,5017.35,USD,INV-1F1610B9,2026-07-28,PAID
+INV0097,2026-06-25,Wallace-Cooper,Function-based radical Local Area Network,9175.12,USD,INV-5392AC97,2026-07-10,PAID
+INV0098,2026-07-29,Short-Reynolds,Intuitive motivating open system,7501.31,USD,INV-A071DB13,2026-08-13,PAID
+INV0099,2026-07-01,Daniels-Carrillo,Innovative even-keeled monitoring,2059.1,USD,INV-AE36BCB9,2026-07-16,PAID
+INV0100,2026-07-08,Mata PLC,Re-engineered global help-desk,9766.15,USD,INV-BCC7B4D6,2026-07-23,PAID
+INV0101,2026-08-07,Short-Reynolds,Advanced exuding encryption,10372.78,USD,INV-362E140E,2026-08-22,PAID
+INV0102,2026-07-28,"Carroll, Johnson and Norris",Face-to-face high-level knowledgebase,10101.44,USD,INV-1AEE2399,2026-08-12,PAID
+INV0104,2026-06-20,Clark Group,Triple-buffered optimizing focus group,4665.76,USD,INV-A7F05D2B,2026-07-05,PAID
+INV0105,2026-06-21,Amazon Web Services,Extended uniform leverage,6849.29,USD,INV-F450D102,2026-07-06,PAID
+INV0106,2026-06-24,Mcneil and Sons,Open-architected bandwidth-monitored collaboration,5859.17,USD,INV-30768063,2026-07-09,PAID
+INV0107,2026-06-17,"Reynolds, Meyers and Robertson",Multi-lateral maximized middleware,8616.14,USD,INV-77B6004C,2026-07-02,PAID
+INV0108,2026-07-13,Davis LLC,Multi-channeled high-level task-force,7915.12,USD,INV-4FEFB229,2026-07-28,PAID
+INV0109,2026-06-29,Mcgrath-Braun,Advanced solution-oriented complexity,11050.15,USD,INV-7216B4CE,2026-07-14,PAID
+INV0110,2026-08-05,Chavez-Wilson,Managed analyzing customer loyalty,475.52,USD,INV-A004EE1C,2026-08-20,PAID
+INV0112,2026-07-03,Mcneil and Sons,Team-oriented multi-tasking capacity,7733.4,USD,INV-D41B1DFA,2026-07-18,PAID
+INV0113,2026-07-10,Jones and Sons,Automated systemic monitoring,4563.8,USD,INV-6A8998B6,2026-07-25,PAID
+INV0114,2026-06-26,"Hall, Nelson and Johnson",Networked dynamic concept,2048.64,USD,INV-F7A894D1,2026-07-11,PAID
+INV0115,2026-07-12,Hess-Hamilton,De-engineered non-volatile initiative,12742.55,USD,INV-53283760,2026-07-27,PAID
+INV0116,2026-06-15,Mcneil and Sons,De-engineered systemic circuit,5590.27,USD,INV-AAD46CED,2026-06-30,PAID
+INV0118,2026-07-04,"Fernandez, Mayo and Miller",Reduced incremental conglomeration,7711.76,USD,INV-4649D364,2026-07-19,PAID
+INV0119,2026-06-19,Elliott PLC,Intuitive dynamic knowledgebase,5736.51,USD,INV-EE628DDA,2026-07-04,PAID
+INV0120,2026-07-14,"Lee, Ayala and Baker",Reverse-engineered bi-directional solution,9183.63,USD,INV-257AC1F6,2026-07-29,PAID
+INV0121,2026-07-17,Amazon Web Services,Seamless incremental project,5678.03,USD,INV-BE4877D8,2026-08-01,PAID
+INV0123,2026-08-03,"Lowe, Carr and Rhodes",Reactive neutral open architecture,14699.01,USD,INV-6C2A8D84,2026-08-18,PAID
+INV0124,2026-07-20,"Bowman, Moore and Perez",Vision-oriented mobile capability,7393.66,USD,INV-C16B9EEB,2026-08-04,PAID
+INV0125,2026-06-21,Cruz and Sons,Triple-buffered zero-defect migration,12262.04,USD,INV-668DAAA3,2026-07-06,PAID
+INV0126,2026-07-19,"Curry, Mccoy and Mclean",Extended dedicated budgetary management,14242.47,USD,INV-650EB553,2026-08-03,PAID
+INV0128,2026-06-24,Microsoft Azure,Enhanced optimizing info-mediaries,6349.32,USD,INV-AD7AD4B6,2026-07-09,PAID
+INV0130,2026-08-05,Perry LLC,Open-architected grid-enabled pricing structure,8576.92,USD,INV-A468A0A5,2026-08-20,PAID
+INV0131,2026-06-30,Barajas-Tanner,Universal client-server capacity,9458.58,USD,INV-46C95B43,2026-07-15,PAID
+INV0132,2026-06-17,Perry LLC,Enterprise-wide client-server architecture,7422.14,USD,INV-AFC3AE8F,2026-07-02,PAID
+INV0133,2026-07-12,"Bowman, Moore and Perez",Implemented static parallelism,12518.62,USD,INV-841F0881,2026-07-27,PAID
+INV0134,2026-06-22,Hughes-Pierce,Re-engineered directional core,5281.49,USD,INV-E9C33069,2026-07-07,PAID
+INV0135,2026-07-03,Mata PLC,Reverse-engineered background hardware,892.65,USD,INV-206AC031,2026-07-18,PAID
+INV0136,2026-07-14,Daniels-Carrillo,Horizontal executive structure,7789.22,USD,INV-3BA5FB1B,2026-07-29,PAID
+INV0137,2026-06-19,Gomez-Long,Phased exuding extranet,6577.99,USD,INV-F19BA870,2026-07-04,PAID
+INV0138,2026-06-23,Edwards-Carney,Assimilated solution-oriented matrix,6672.59,USD,INV-72856FE6,2026-07-08,PAID
+INV0139,2026-08-01,"Fernandez, Mayo and Miller",Cross-platform solution-oriented workforce,7934.9,USD,INV-99DB712E,2026-08-16,PAID
+INV0140,2026-07-28,Jones and Sons,Managed global synergy,603.54,USD,INV-A0B6E88E,2026-08-12,PAID
+INV0141,2026-06-13,"Curry, Mccoy and Mclean",Exclusive clear-thinking capacity,10787.55,USD,INV-9BE5765A,2026-06-28,PAID
+INV0142,2026-06-18,Google Cloud,Business-focused object-oriented portal,8793.01,USD,INV-B1A513EE,2026-07-03,PAID
+INV0143,2026-06-24,Calderon Inc,Implemented actuating secured line,12926.72,USD,INV-FD68536F,2026-07-09,PAID
+INV0144,2026-08-06,Gomez-Long,Multi-tiered 5thgeneration hub,13964.8,USD,INV-46BC6518,2026-08-21,PAID
+INV0145,2026-06-13,Rodriguez-Ellis,Function-based needs-based Graphic Interface,10209.4,USD,INV-4738FFE2,2026-06-28,PAID
+INV0146,2026-07-23,"Williams, Hanson and Wong",Customer-focused asymmetric superstructure,9538.13,USD,INV-EA4B2D4B,2026-08-07,PAID
+INV0147,2026-07-29,Hughes-Pierce,Networked logistical access,1077.38,USD,INV-5497A702,2026-08-13,PAID
+INV0148,2026-06-28,Microsoft Azure,Reactive user-facing software,6849.82,USD,INV-BDC2DF49,2026-07-13,PAID
+INV0149,2026-07-30,DigitalOcean,Multi-layered clear-thinking frame,12764.28,USD,INV-45EA7703,2026-08-14,PAID

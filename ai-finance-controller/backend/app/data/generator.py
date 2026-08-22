@@ -4,7 +4,7 @@ import json
 import uuid
 import random
 from datetime import datetime, timedelta
-from Faker import Faker
+from faker import Faker
 import argparse
 import os
 
