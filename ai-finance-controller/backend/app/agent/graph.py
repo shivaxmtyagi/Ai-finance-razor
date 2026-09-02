@@ -5,8 +5,7 @@ from app.matching.semantic_matcher import SemanticMatcher
 
 def analyze_next_pair(state: FinanceReconciliationState) -> FinanceReconciliationState:
     """
-    Agent Node: Takes the current ambiguous pair, calculates semantic similarity,
-    and asks the LLM to decide if it's a match.
+    Agent Node: Takes the current ambiguous pair, calculates semantic similarity,and asks the LLM to decide if it's a match.
     """
     idx = state["current_index"]
     if idx >= len(state["ambiguous_pairs"]):
@@ -72,5 +71,4 @@ workflow.add_conditional_edges(
         "end": END
     }
 )
-
 reconciliation_agent = workflow.compile()
