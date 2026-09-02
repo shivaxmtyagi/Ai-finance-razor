@@ -1,3 +1,4 @@
+from app.services.verification_service import VerificationService
 import os
 from dotenv import load_dotenv
 load_dotenv()
@@ -10,6 +11,7 @@ from app.agent.graph import reconciliation_agent
 
 def run_test():
     print("1. Creating database tables...")
+    Base.metadata.drop_all(bind=engine)
     Base.metadata.create_all(bind=engine)
     db = SessionLocal()
     
@@ -87,3 +89,13 @@ def run_test():
 
 if __name__ == "__main__":
     run_test()
+print("\n5. 🛡️ Running Verification Guardrails (Phase 8)...")
+        verifier = VerificationService(db)
+        audit_results = verifier.verify_and_commit_ai_matches(run_id, final_state["resolved_matches"])
+        
+        print("\n" + "="*50)
+        print("🏛️ FINAL AUDIT COMPLETE")
+        print("="*50)
+        print(f"AI Matches Safely Committed: {audit_results['verified']} 🟢")
+        print(f"AI Hallucinations Blocked:   {audit_results['rejected']} 🔴")
+        print("="*50)
