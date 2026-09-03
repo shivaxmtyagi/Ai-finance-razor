@@ -2,7 +2,7 @@ from fastapi import APIRouter, Depends, HTTPException
 from sqlalchemy.orm import Session
 from pydantic import BaseModel
 from app.database.database import SessionLocal
-from app.database.models import ExceptionRecord, Match
+from app.database.models import ExceptionRecord, Match, ReconciliationRun
 
 router = APIRouter()
 
@@ -17,6 +17,13 @@ class ManualResolutionRequest(BaseModel):
     bank_transaction_id: str
     ledger_entry_id: str
     notes: str
+
+@router.get("/runs/latest")
+def get_latest_run(db: Session = Depends(get_db)):
+    run = db.query(ReconciliationRun).order_by(ReconciliationRun.id.desc()).first()
+    if not run:
+        raise HTTPException(status_code=404, detail="No runs found")
+    return {"run_id": run.id}
 
 @router.get("/exceptions/{run_id}")
 def get_exceptions(run_id: str, db: Session = Depends(get_db)):
