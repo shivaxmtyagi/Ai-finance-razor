@@ -1,0 +1,12 @@
+# Node/React dependencies
+node_modules/
+frontend/node_modules/
+
+# Python dependencies
+venv/
+backend/venv/
+__pycache__/
+*.pyc
+
+# Env files
+.env
